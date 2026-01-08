@@ -213,3 +213,11 @@ class Database:
             """
             cursor.execute(sql, (search_query, search_query, search_query))
             return cursor.fetchall()
+
+    def get_total_snippets_count(self):
+        """Retorna a contagem total de todos os snippets armazenados no banco."""
+        with self.get_connection() as conn:
+            cursor = conn.cursor()
+            cursor.execute("SELECT COUNT(*) FROM snippets")
+            result = cursor.fetchone()
+            return result[0] if result else 0
