@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Banco de Dados
+*.db
+*.iss
+
+# Empacotamento
+build/
+dist/
+*.spec
