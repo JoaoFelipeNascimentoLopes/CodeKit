@@ -53,7 +53,7 @@ O CodeKit utiliza arquivos JSON estruturados para garantir a portabilidade:
 
 ## 🛠️ Tecnologias e Arquitetura
 
-Este projeto foi desenvolvido com orgulho utilizando:
+Este projeto foi desenvolvido utilizando:
 
 * **Linguagem:** Python 3.12+
 * **Interface:** [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
