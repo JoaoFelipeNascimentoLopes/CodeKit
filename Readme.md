@@ -66,6 +66,7 @@ Este projeto foi desenvolvido utilizando:
 ## 💻 Autor e Contribuição
 
 Desenvolvido com 🧊 por **João Felipe**.
+
 Este projeto é de uso pessoal e educacional.
 
 📅 **Ano:** 2026
