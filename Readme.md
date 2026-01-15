@@ -66,8 +66,7 @@ Este projeto foi desenvolvido utilizando:
 ## 💻 Autor e Contribuição
 
 Desenvolvido com 🧊 por **João Felipe**.
-
-Este é um projeto de código aberto! Sinta-se à vontade para explorar o código, abrir *Issues* ou enviar *Pull Requests* para melhorar o CodeKit.
+Este projeto é de uso pessoal e educacional.
 
 📅 **Ano:** 2026
 🚀 **Versão:** 1.0.0
